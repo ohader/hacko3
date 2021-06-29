@@ -1,0 +1,29 @@
+{
+    "name": "local/hacko3v7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oliver Hader",
+            "email": "oliver@typo3.org"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://composer.typo3.org"
+        }
+    ],
+    "require": {
+        "typo3/cms": "^7.6",
+        "php": "^7.0",
+        "typo3-ter/introduction": "^2.3",
+        "friendsoftypo3/mediace": "7.6.4"
+    },
+    "extra": {
+        "typo3/cms": {
+            "web-dir": "public",
+            "prepare-web-dir": true,
+            "cms-package-dir": "{$vendor-dir}/typo3/cms"
+        }
+    }
+}

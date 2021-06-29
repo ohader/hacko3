@@ -1,3 +1,12 @@
+hacko3v7/public/fileadmin/_processed_/
+hacko3v7/public/fileadmin/_temp_/
+hacko3v7/public/index.php
+hacko3v7/public/typo3
+hacko3v7/public/typo3conf/l10n/
+hacko3v7/public/typo3conf/ext/
+hacko3v7/public/typo3temp/
+hacko3v7/vendor/
+
 hacko3v10/public/fileadmin/_processed_/
 hacko3v10/public/fileadmin/_temp_/
 hacko3v10/public/index.php
@@ -7,6 +16,7 @@ hacko3v10/public/typo3conf/ext/
 hacko3v10/public/typo3temp/
 hacko3v10/var/
 hacko3v10/vendor/
+
 /.idea/
 .DS_Store
 Thumbs.db
