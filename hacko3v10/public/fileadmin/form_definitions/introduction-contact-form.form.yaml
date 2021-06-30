@@ -8,7 +8,7 @@ prototypeName: standard
 finishers:
   -
     options:
-      pageUid: '105'
+      pageUid: '38'
       additionalParameters: ''
     identifier: Redirect
 renderables:
@@ -129,3 +129,10 @@ renderables:
         type: FileUpload
         identifier: fileupload-1
         label: Attachments
+  -
+    renderingOptions:
+      previousButtonLabel: 'Previous step'
+      nextButtonLabel: 'Next step'
+    type: SummaryPage
+    identifier: summarypage-1
+    label: 'Summary step'
